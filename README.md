@@ -102,7 +102,7 @@ console.log(api)
         codec: [Object],
         base: 58 },
      call:
-      { alphabet: 'rpshnaf39wBUDNEGHJKLM4PQRST7VWXYZ2bcdeCg65jkm8oFqi1tuvAxyz',
+      { alphabet: 'cpshnaf39wBUDNEGHJKLM4PQRST7VWXYZ2brdeCg65jkm8oFqi1tuvAxyz',
         codec: [Object],
         base: 58 },
      tipple:
